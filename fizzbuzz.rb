@@ -1,5 +1,5 @@
 def fizzbuzz(fizz)
-  fizz_3 = "fizzbuzz"
-
+ if fizz_3 = "fizzbuzz"
+print "fizz"
 end
 fizzbuzz
