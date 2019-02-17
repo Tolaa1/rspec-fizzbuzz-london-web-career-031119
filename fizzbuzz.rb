@@ -1,4 +1,5 @@
-def fizzbuzz(fizz)
- puts fizz_3 = "fizzbuzz"
+def fizzbuzz(int)
+ if int % 3 == 0 
+   puts "fizz"
 end
 fizzbuzz
