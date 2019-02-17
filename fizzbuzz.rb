@@ -3,4 +3,3 @@ def fizzbuzz(int)
    puts "fizz"
 end
 end
-fizzbuzz
