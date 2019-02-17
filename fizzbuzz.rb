@@ -5,7 +5,7 @@ end
 end
 fizzbuzz(3)
 
-#def fizzbuzz(int)
-#  if int % 5 == 0 
- #   print "buzz"
-#end
+def fizzbuzz(int)
+if int % 5 == 0 
+    print "buzz"
+end
