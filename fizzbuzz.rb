@@ -5,7 +5,10 @@ end
 end
 
 def fizzbuzz(int)
-  if 
+  if int % 5 == 0 
+    "buzz"
+  end 
+end 
 
 
 
