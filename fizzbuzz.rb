@@ -3,3 +3,9 @@ def fizzbuzz(int)
    print "fizz"
 end
 end
+
+
+def fizzbuzz(int)
+  if int % 5 == 0 
+    print "buzz"
+end
